@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/HelenaGomez-Adorno/HelenaGomez-Adorno.github.io.git
+	branch = master
