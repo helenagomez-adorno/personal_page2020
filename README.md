@@ -4,8 +4,10 @@
 
 2- Instalar Hugo 
 
-3- Clonar el repositorio desarrollo y producción 
+3- Clonar el repositorio desarrollo y producción.
+
 git clone https://github.com/helenagomez-adorno/personal_page2020.git 
+
 git clone https://github.com/helenagomez-adorno/helenagomez-adorno.github.io.git 
 
 4- Ir a la carpeta de desarrollo
