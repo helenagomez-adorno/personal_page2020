@@ -1,12 +1,12 @@
 ## Guia para modificar Pagina Personal como colaborador en Github
 
-1- Instalar git y configurar con tu usuario de github
+1- Instalar git y configurar con tu usuario de github 
 
-2- Instalar Hugo
+2- Instalar Hugo 
 
-3- Clonar el repositorio desarrollo y produccion
-git clone https://github.com/helenagomez-adorno/personal_page2020.git
-git clone https://github.com/helenagomez-adorno/helenagomez-adorno.github.io.git
+3- Clonar el repositorio desarrollo y producción 
+git clone https://github.com/helenagomez-adorno/personal_page2020.git 
+git clone https://github.com/helenagomez-adorno/helenagomez-adorno.github.io.git 
 
 4- Ir a la carpeta de desarrollo
 cd personal_page2020/
