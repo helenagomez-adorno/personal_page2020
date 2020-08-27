@@ -14,6 +14,7 @@ git clone https://github.com/helenagomez-adorno/helenagomez-adorno.github.io.git
 4- Ir a la carpeta de desarrollo
 
 cd personal_page2020/
+
 git submodule add -f -b master https://github.com/helenagomez-adorno/helenagomez-adorno.github.io.git public
 
 5-Agregar contenido
