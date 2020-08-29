@@ -72,11 +72,6 @@ group_logo = "./img/logo/pythonNLP.jpg"
 +++
 **Dr. Helena Gómez Adorno** is a professor of Artificial Intelligence at the Institute for Research in Advanced Mathematics and Systems. Among his research interests is the creation of algorithms for Natural Language Processing, as well as Algorithms for Data Mining, Texts and graphs. Lead a research and development team to implement intelligent systems with the help of machine learning and neural networks.
 
- 
-- Doctorado, Ciencias de la computación, 2014 – 2018, (Mención Honorífica)
-- Maestría, Ciencias de la Computación, 2011 – 2013, (Mención Honorífica)
-- Licenciatura, Análisis de Sistemas Informáticos, 2001 – 2005  
-
 **Awards and honours**
 
 -  **“Lázaro Cárdenas 2019” Prize**  for remarkable performance as PhD. student in Engineering,
