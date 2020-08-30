@@ -47,6 +47,9 @@ social:
 - icon: bitbucket
   icon_pack: fab
   link: https://bitbucket.org/helenpy/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/helen_py
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es
