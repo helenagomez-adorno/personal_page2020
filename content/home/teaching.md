@@ -35,34 +35,18 @@ subtitle = ""
 [[teaching.class]]
   name = "Universidad Nacional de Asunción"
   number = "Maestría en tecnologías de la información y la comunicación"
-  session = ""
+  session = "2016 - 2017"
   photo = "TICS.jpg"
   website = ""
 
 [[teaching.class]]
   name = "Universidad Nacional de Asunción"
   number = "Curso de administración y programación de Base de datos."
-  session = ""
+  session = "2009 - 2011"
   photo = "BD.jpg"
   website = ""
 
 +++
 
-<br />
 
-* **Universidad Nacional Autónoma de México (México)**
-  <br />Agosto 2018 – Actualidad.
-  <br />
-  Posgrado en Ciencia e Ingeniería de la Computación:
-  <br /> - Minería de Textos 
-  <br /> - Minería de Grafos.
-* **Universidad Nacional de Asunción (Paraguay)**
-  <br /> Agosto 2016, Mayo 2017
-  <br />Profesora 
-  <br />- Curso de posgrado de la “Maestría en tecnologías de la información y la comunicación”
-  <br />- Curso de base de datos avanzadas: Base de datos espaciales con SQL server (20 horas).
-* **Universidad Nacional de Asunción (Paraguay)**
-  <br /> 2009-2011
-  <br /> Profesora – Nivel Licenciatura. 
-  <br /> - Curso de administración y programación de Base de datos.
 
