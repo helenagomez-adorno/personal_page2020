@@ -88,15 +88,19 @@ show_related = {docs = true, page = true, post = true, project = true, publicati
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
+
 email = "helena.gomez@iimas.unam.mx"
+
 phone = "+52 5518903203"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+
 address = {street = "Circuito Interior 3000", city = "Coyoacán", region = "UNAM", postcode = "04510", country = "México", country_code = "MX"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+
 coordinates = {latitude = "19.3296668", longitude = "-99.1848701"}
 
 
@@ -105,7 +109,7 @@ directions = "CU, IIMAS"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Lunes - Miércoles 10:00 a 18:00", "Martes - Jueves 08:00 to 19:00", "Viernes 09:00 to 14:00"]
+office_hours = ["Lunes - Viernes 10:00 a 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
