@@ -89,9 +89,11 @@ show_related = {docs = true, page = true, post = true, project = true, publicati
 
 # Enter contact details (optional). To hide a field, clear it to "".
 
-email = "helena.gomez@iimas.unam.mx"
+
 
 phone = "+52 5518903203"
+
+email = "helena.gomez@iimas.unam.mx"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -132,7 +134,7 @@ appointment_url = "https://calendly.com/helena-gomez"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "@helen_py"
 
 ############################
 ## Regional Settings
