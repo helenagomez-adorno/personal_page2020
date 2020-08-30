@@ -112,7 +112,7 @@ directions = "CU, IIMAS"
 office_hours = ["Lunes - Viernes 10:00 a 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/helena-gomez"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
