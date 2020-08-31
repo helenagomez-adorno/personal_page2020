@@ -58,7 +58,7 @@ group_logo = "./img/logo/pythonNLP.jpg"
   institution = "Universidad Nacional de Asunción"
   institution_short = "Facultad Politénica, Universidad Nacional de Asunción, Paraguay"
   year = 2005
-  logo = "/logo/Asuncion.jpg"
+  logo = "/logo/UNA.png"
 
 [service]
   service = [
@@ -70,7 +70,7 @@ group_logo = "./img/logo/pythonNLP.jpg"
     "[Mujeres del Futuro](https://www.dgcs.unam.mx/boletin/bdboletin/2019_612.html)" 
   ]
 +++
-**Dr. Helena Gómez Adorno** is a professor of Artificial Intelligence at the Institute for Research in Advanced Mathematics and Systems. Among her research interests areas are natural language processing, computational linguistics, and information retrieval; specifically, question answering, semantic similarity, authorship attribution, and author profiling. Lead a research and development team to implement intelligent systems with the help of machine learning and neural networks.
+**Dr. Helena Gómez Adorno** is a professor of Artificial Intelligence at IIMAS-UNAM. Among her research interests areas are natural language processing, computational linguistics, and information retrieval; specifically, question answering, semantic similarity, authorship attribution, and author profiling. Lead a research and development team to implement intelligent systems with the help of machine learning and neural networks.
 
 **Awards and honours**
 
