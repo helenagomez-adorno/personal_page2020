@@ -17,12 +17,12 @@ organizations:
   url: "http://www.mcc.unam.mx/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language processing, computational linguistics, and machine learning.
 
 interests:
-- Artificial Intelligence 
 - Natural Language Processing
 - Machine Learning
+- Computational Linguistics
 
 education:
   courses:
@@ -44,21 +44,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "helena.gomez@iimas.unam.mx"  # For a direct email link, use "mailto:test@example.org".
-- icon: bitbucket
-  icon_pack: fab
-  link: https://bitbucket.org/helenpy/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/helen_py
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es
+- icon: bitbucket
+  icon_pack: fab
+  link: https://bitbucket.org/helenpy/
 - icon: github
   icon_pack: fab
   link: https://github.com/helenpy
-- icon: cv
-  icon_pack: ai
-  link: files/cv_HelenaGomez.pdf
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-6966-9912
@@ -79,8 +76,5 @@ user_groups:
 - Visitors
 ---
 
-My research areas are natural language processing, computational linguistics and information retrieval; specifically applications, search for answers, semantic similarity, attribution of authorship and author profiling. I have developed new text representation structures to facilitate these tasks and new methods to calculate the semantic similarity between texts. I have proposed a new measure of similarity, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.
-I have seven years of experience working as Oracle DBA and software developer in several companies in the public and private sector in Paraguay. I also have more than three years of teaching experience at the National University of Asunción and at the National Autonomous University of Mexico.
+I am faculty at [Universidad Nacional Autónoma de México (UNAM)](http://unam.mx/) in the [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas (IIMAS)](https://www.iimas.unam.mx). My research areas are natural language processing, computational linguistics and information retrieval; specifically applications, search for answers, semantic similarity, attribution of authorship and author profiling. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.
 
-
- 
