@@ -161,7 +161,7 @@ reading_time = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
-docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
+docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -171,8 +171,8 @@ sharing = true
 footmark = "layout/feynmanfooter.png"
 
 # Footer logos
-midlogo = "logo/UCRPAlogo2.png"
-mylogo = "logo/FlipAmbigram.png"
+midlogo = "logo/UNAM.png"
+mylogo = "logo/IPN.png"
 
 # watermark on the about widget
 watermark = "background/graphs.jpg"
