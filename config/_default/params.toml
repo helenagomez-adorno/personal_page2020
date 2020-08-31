@@ -26,7 +26,7 @@ font = "flipfont"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -134,7 +134,7 @@ appointment_url = "https://calendly.com/helena-gomez"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "@helen_py"
+twitter = "helen_py"
 
 ############################
 ## Regional Settings
@@ -166,13 +166,10 @@ docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
-## ADDED BY FLIP
-# Feynman Diagram Footer
-footmark = "layout/feynmanfooter.png"
 
 # Footer logos
 midlogo = "logo/UNAM.png"
-mylogo = "logo/IPN.png"
+mylogo = "logo/IIMAS.png"
 
 # watermark on the about widget
 watermark = "background/graphs.jpg"
