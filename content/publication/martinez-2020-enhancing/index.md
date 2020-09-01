@@ -9,11 +9,12 @@ authors:
 - Gemma Bel-Enguix
 - Helena Gómez-Adorno
 - Juan Manuel Torres Moreno
-- Tonatiuh Hernández-Garc\á
+- Tonatiuh Hernández-García
 - Julio V Guadarrama-Olvera
 - Jesús-Germán Ortiz-Barajas
-- Ángela Mar\' ́and Damerau, Tomas Rojas
-- Soledad Aragón Mart\'ıź
+- Ángela María 
+- Damerau, Tomas Rojas
+- Soledad Aragón Martínez
 tags: []
 categories: []
 date: '2020-01-01'
