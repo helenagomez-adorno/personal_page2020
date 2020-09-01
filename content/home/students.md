@@ -56,15 +56,16 @@ subtitle = ""
   position = "Master Student"
   role =""
   start = "2018"
-  start = "2020"
+  end = "2020"
   photo = ""
   website = ""
 
 [[mygroup.oldstudents]]
   name = "Aquilino Francisco Sotelo"
   position = "Ph.D. Student"
+  role=""
   start = "2018"
-  start = "2020"
+  end = "2020"
   photo = ""
   website = ""
 +++
