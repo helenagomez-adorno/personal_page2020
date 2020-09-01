@@ -17,6 +17,7 @@ subtitle = ""
   position = "Master Student"
   photo = ""
   website = ""
+  role = "Postgraduate in Computer Science and Engineering - UNAM"
 
 [[mygroup.students]]
   name = "Luis Ramón Casillas Pérez Soto"
@@ -24,6 +25,7 @@ subtitle = ""
   position = "Master Student"
   photo = ""
   website = ""
+  role = "Postgraduate in Computer Science and Engineering - UNAM"
 
 [[mygroup.students]]
   name = "Daniel Embarcadero"
@@ -31,6 +33,7 @@ subtitle = ""
   position = "Master Student"
   photo = ""
   website = ""
+  role = "Postgraduate in Computer Science and Engineering - UNAM"
 
 [[mygroup.students]]
   name = "Alex Iván Valencia Valencia"
@@ -38,6 +41,7 @@ subtitle = ""
   start = "2019"
   photo = ""
   website = ""
+  role = "Doctorate in Computer Science and Engineering - UNAM"
 
 [[mygroup.students]]
   name = "Eric Valdez Valenzuela"
@@ -45,6 +49,7 @@ subtitle = ""
   start = "2019"
   photo = ""
   website = ""
+  role = "Doctorate in Computer Science and Engineering - UNAM"
 
 +++
 
