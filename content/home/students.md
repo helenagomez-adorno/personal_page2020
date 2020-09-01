@@ -47,7 +47,7 @@ subtitle = ""
   name = "Eric Valdez Valenzuela"
   position = "Ph.D. Student"
   role=""
-  start = "2019"
+  start = "2019" 
   photo = ""
   website = ""
 
@@ -66,6 +66,16 @@ subtitle = ""
   role=""
   start = "2018"
   end = "2020"
+  photo = ""
+  website = ""
+
+   
+  
+[[mygroup.socialservicestudents]]
+  name = "Pedro"
+  position = "Social Service Student"
+  role="Facultad de Ciencias, UNAM"
+  start = "2020" 
   photo = ""
   website = ""
 
