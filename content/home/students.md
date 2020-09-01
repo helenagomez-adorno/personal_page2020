@@ -68,6 +68,6 @@ subtitle = ""
   end = "2020"
   photo = ""
   website = ""
-+++
 
++++
 Students seeking mentoring in Natural Language Processing may contact me to discuss the possibility. I work closely with the [Linguistic Ingeniering](http://grupos.iingen.unam.mx/iling/es-mx/Paginas/default.aspx) group.

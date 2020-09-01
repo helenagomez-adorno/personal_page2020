@@ -7,21 +7,30 @@
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
     <div class="col-12 col-lg-8">
-      <div class="row comment">
-      <h5>Ph.D. Students</h5>
-    </div>
-
       {{ $st.Content }}
       <!-- FLIP 2019 -->
       
+        <div class="row comment">
+        <h5>Ph.D. Students</h5>
+        </div>
       {{ with $st.Params.mygroup }}
-        <ul class="ul-students">
+        
           {{ range .PHDstudents }}
-            <li class="ul-students" title="{{ .name }}">
-              <a href="{{ .website }}"><img class="studentpic" src="{{ $.Site.BaseURL }}img/students/{{ .photo }}"></a>
-            </li>
+            <div class="row comment">
+          <div class="col-xs-3">
+            <a href="{{ .website }}" class=comment>
+              {{ .name }}&nbsp;
+            </a>
+          </div>
+          <div class="col-xs-3">
+            {{ .start }} - {{ .end }}&nbsp;
+          </div>
+          <div class="col-xs-6">
+            {{ .position }}, {{ .role }}
+          </div>
+        </div>
           {{ end }}
-        </ul>
+        
       {{ end }}
 
     <div class="row comment">
