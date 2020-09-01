@@ -77,9 +77,9 @@ subtitle = ""
    
   
 [[mygroup.socialservicestudents]]
-  name = "Pedro"
+  name = "Pedro Serrano Rivera"
   position = "Social Service Student"
-  role="Facultad de Ciencias, UNAM"
+  role="Actuarial Student. Facultad de Ciencias, UNAM"
   start = "2020" 
   photo = ""
   website = ""
