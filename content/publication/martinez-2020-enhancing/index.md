@@ -9,17 +9,7 @@ authors:
 - Gemma Bel-Enguix
 - Helena Gómez-Adorno
 - Juan Manuel Torres Moreno
-<<<<<<< HEAD
-- Tonatiuh Hernández-Garc\á
-- Julio V Guadarrama-Olvera
-- Jesús-Germán Ortiz-Barajas
-- Ángela Mar\' ́and Damerau, Tomas Rojas
-- Soledad Aragón Mart\'ıź
-tags: []
-categories: []
-date: '2020-01-01'
-lastmod: 2020-09-04T01:52:08-05:00
-=======
+
 - Tonatiuh Hernández-García
 - Julio V Guadarrama-Olvera
 - Jesús-Germán Ortiz-Barajas
@@ -30,7 +20,6 @@ tags: []
 categories: []
 date: '2020-01-01'
 lastmod: 2020-08-31T22:45:52-05:00
->>>>>>> 542d9832bd3420791aa8c6e46f963759cf8d99bb
 featured: false
 draft: false
 
@@ -48,11 +37,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-<<<<<<< HEAD
 publishDate: '2020-09-04T06:52:07.873448Z'
-=======
-publishDate: '2020-09-01T03:45:52.219412Z'
->>>>>>> 542d9832bd3420791aa8c6e46f963759cf8d99bb
+
 publication_types:
 - 1
 abstract: ''
