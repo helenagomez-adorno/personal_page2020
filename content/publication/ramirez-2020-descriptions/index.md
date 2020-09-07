@@ -12,11 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-<<<<<<< HEAD
-lastmod: 2020-09-04T01:52:07-05:00
-=======
 lastmod: 2020-08-31T22:45:52-05:00
->>>>>>> 542d9832bd3420791aa8c6e46f963759cf8d99bb
 featured: false
 draft: false
 
