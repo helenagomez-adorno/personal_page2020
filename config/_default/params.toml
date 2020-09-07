@@ -103,8 +103,7 @@ address = {street = "Circuito Interior 3000", city = "Coyoacán", region = "UNAM
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 
-coordinates = {latitude = "19.3296668", longitude = "-99.1848701"}
-
+coordinates = {latitude = "19.3295786", longitude = "-99.1806108"}
 
 # Directions for visitors to locate you.
 directions = "CU, IIMAS"

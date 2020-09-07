@@ -11,8 +11,9 @@ authors:
 - Helena Gómez-Adorno
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-08-31T22:45:52-05:00
+date: '2020-01-01' 
+lastmod: 2020-09-04T01:52:07-05:00
+ 
 featured: false
 draft: false
 
@@ -29,8 +30,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-09-01T03:45:51.837433Z'
+projects: [] 
+publishDate: '2020-09-04T06:52:06.640474Z'
+ 
 publication_types:
 - 2
 abstract: ''
