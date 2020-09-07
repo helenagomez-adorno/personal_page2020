@@ -16,13 +16,13 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,7 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-
 # 1.   S. L Ramírez-Mora, H. Oktaba, <u>H. Gómez-Adorno</u>. ***Descriptions of issues and comments for predicting issue success in software projects***, [**Journal of Systems and Software, vol. 168,**](https://www.sciencedirect.com/science/article/abs/pii/S0164121220301242?via%3Dihub) 110663, 2020.    
 # <span style="color:DarkOrange">JCR impact factor 2019: 2.559</span>
 
@@ -83,3 +82,7 @@ subtitle = ""
 # <span style="color:DarkOrange">JCR impact factor 2018: 1.426</span>
 
 +++
+
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
