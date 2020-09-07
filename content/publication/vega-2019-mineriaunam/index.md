@@ -16,7 +16,7 @@ date: '2019-01-01'
 
 lastmod: 2020-09-04T01:51:53-05:00
 
-featured: false
+featured: true
 draft: false
 
 # Featured image
