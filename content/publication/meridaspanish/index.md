@@ -5,7 +5,10 @@ title: Spanish Word Embeddings Learned on Word Association Norms
 subtitle: ''
 summary: ''
 authors:
-- Yucatán Mérida
+- Helena Gómez-Adorno
+- Jorge Carlos Reyes-Magaña
+- Gemma Bel-Enguix
+- Gerardo Sierra
 tags: []
 categories: []
 date: -01-01
