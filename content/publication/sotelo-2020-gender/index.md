@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [PAPIIT-TA100520]
 
 publishDate: '2020-09-04T06:52:05.302742Z'
 
