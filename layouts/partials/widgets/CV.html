@@ -4,23 +4,9 @@
 <div class="row">
   {{ if ne $columns "1" }}
     <div class="col-12 col-lg-4 section-heading">
-      <!-- FLIP: h1 -> h2 -->
-      {{ with $st.Title }}<h2>{{ . | markdownify | emojify }}</h2>{{ end }}
-      <!-- /FLIP -->
+      {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-      <!-- FLIP -->
-      <p>
-        <a class="btn btn-outline-primary btn-xs" href="{{ $st.Params.cv_pdf }}">
-          Download Complete CV
-        </a>
-      </p>
-      {{ if $st.Params.group_logo }}
-      <p>
-        <img class="sidebarpic" src="{{ $st.Params.group_logo }}">
-        <meta itemprop="image" content="{{ $st.Params.group_logo }}">
-      </p>
-      {{ end }}
-      <!-- /FLIP -->
+
     </div>
     <div class="col-12 col-lg-8">
       {{ $st.Content }}

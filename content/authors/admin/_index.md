@@ -44,21 +44,27 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "helena.gomez@iimas.unam.mx"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/helen_py
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es
+- icon: calendar-alt
+  icon_pack: fas
+  link: https://calendly.com/helena-gomez
 - icon: bitbucket
   icon_pack: fab
   link: https://bitbucket.org/helenpy/
 - icon: github
   icon_pack: fab
   link: https://github.com/helenpy
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Helena_Gomez_Adorno
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-6966-9912
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/helen_py
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
