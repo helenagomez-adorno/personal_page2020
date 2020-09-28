@@ -1,20 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Descriptions of issues and comments for predicting issue success in software
-  projects
+title: Siamese Network applied to Authorship Verification
 subtitle: ''
 summary: ''
 authors:
-- Sandra L Ramı́rez-Mora
-- Hanna Oktaba
+- Emir Araujo-Pino
 - Helena Gómez-Adorno
-tags: []
+- Gibran Fuentes-Pineda
+tags: [Deep learning, Authorship Analysis]
 categories: []
-date: '2020-01-01' 
+date: '2020-09-04' 
 lastmod: 2020-09-04T01:52:07-05:00
  
-featured: true
+featured: false
 draft: false
 
 # Projects (optional).
@@ -22,11 +21,12 @@ draft: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [] 
+projects: [PAPIIT-TA100520] 
 publishDate: '2020-09-04T06:52:06.640474Z'
  
 publication_types:
-- 2
+- 1
 abstract: ''
-publication: '*Journal of Systems and Software*'
+publication: '*Working Notes of CLEF*'
 ---
+

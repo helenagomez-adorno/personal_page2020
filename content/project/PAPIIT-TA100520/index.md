@@ -40,3 +40,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The aim of the project is to develop methods that allow the extraction of relevant feature from documents for authorship analysis, using deep neural architectures that allow to obtain lexical, syntactic, and semantic properties of texts.∫
