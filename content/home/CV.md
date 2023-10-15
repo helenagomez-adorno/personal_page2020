@@ -66,7 +66,9 @@ group_logo = "./img/logo/pythonNLP.jpg"
     "[UNAM Posgraduate adviser]( http://www.mcc.unam.mx/tutoresarea.php)",
     "[UNAM Social Service Program](https://www.siass.unam.mx/)",
     "[NLP Summer School 2020](https://ampln.github.io/escuelaverano2020/)",
-    "[MEX-A3T Workshop 2020](https://sites.google.com/view/mex-a3t/home?authuser=0)" 
+    "[MEX-A3T Workshop 2020](https://sites.google.com/view/mex-a3t/home?authuser=0)",
+    "[Summer School on Digital Humanities 2023](https://sites.google.com/aries.iimas.unam.mx/school-digital-humanities/home)",
+    "[Macroentrenamiento en Inteligencia Artificial MeIA 2023](https://www.taller-tic.redmacro.unam.mx/MeIA/)"
   ]
 +++
 **Dr. Helena Gómez Adorno** is a professor of Artificial Intelligence at IIMAS-UNAM. Among her research interests areas are natural language processing, computational linguistics, and information retrieval; specifically, question answering, semantic similarity, authorship attribution, and author profiling. Lead a research and development team to implement intelligent systems with the help of machine learning and neural networks.

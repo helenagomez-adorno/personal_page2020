@@ -12,20 +12,12 @@ title = "Team"
 subtitle = ""
 
 [[mygroup.PHDstudents]]
-  name = "Alex Iván Valencia Valencia"
+  name = "Victor Manuel Morales de Jesús"
   position = "Ph.D. Student"
-  start = "01/2019"
+  start = "12/2021"
   photo = ""
   website = ""
-  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
-
-[[mygroup.PHDstudents]]
-  name = "Eric Valdez Valenzuela"
-  position = "Ph.D. Student"
-  start = "01/2020" 
-  photo = ""
-  website = ""
-  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
+  role = "Benemérita Universidad Autónoma de Puebla"
 
 [[mygroup.PHDstudents]]
   name = "Iqra Ameer"
@@ -34,7 +26,6 @@ subtitle = ""
   photo = ""
   website = ""
   role = "Centro de Investigación en Computación - IPN"
-  
 
 [[mygroup.MSstudents]]
   name = "Alan Emir Araujo Pino"
@@ -60,6 +51,30 @@ subtitle = ""
   website = ""
   role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
 
+[[mygroup.MSstudents]]
+  name = "Daniel Jacob Espinozo González"
+  start = "07/2020"
+  position = "Master Student"
+  photo = ""
+  website = ""
+  role = "Centro de Investigación en Computación - IPN"
+
+[[mygroup.MSstudents]]
+  name = "Aquilino Francisco Sotelo"
+  start = "01/2020"
+  position = "Master Student"
+  photo = ""
+  website = ""
+  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
+
+[[mygroup.MSstudents]]
+  name = "Claudia Porto Capetillo"
+  start = "02/2023"
+  position = "Master Student"
+  photo = ""
+  website = ""
+  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
+
 [[mygroup.oldstudents]]
   name = "Aquilino Francisco Sotelo"
   position = "Master Student"
@@ -78,45 +93,5 @@ subtitle = ""
   photo = ""
   website = ""
 
-  
-[[mygroup.socialservicestudents]]
-  name = "Pedro Serrano Rivera"
-  position = "Social Service Student"
-  role="Undergaduate Student. Facultad de Ciencias, UNAM"
-  start = "03/2020" 
-  photo = ""
-  website = ""
-
-[[mygroup.socialservicestudents]]
-  name = "Josue Palacios"
-  position = "Social Service Student"
-  role="Undergaduate Student. Facultad de Ciencias, UNAM"
-  start = "03/2020" 
-  photo = ""
-  website = ""
-
-[[mygroup.socialservicestudents]]
-  name = "Mariano Carmona"
-  position = "Social Service Student"
-  role="Undergaduate Student. Facultad de Ciencias, UNAM"
-  start = "03/2020" 
-  photo = ""
-  website = ""
-
-  [[mygroup.socialservicestudents]]
-  name = "Brian Aguilar"
-  position = "Social Service Student"
-  role="Undergaduate Student. Facultad de Ciencias, UNAM"
-  start = "03/2020" 
-  photo = ""
-  website = ""
-
-  [[mygroup.socialservicestudents]]
-  name = "Renata Martinez"
-  position = "Social Service Student"
-  role="Undergaduate Student. Facultad de Ciencias, UNAM"
-  start = "03/2020" 
-  photo = ""
-  website = ""
 +++
 Students seeking mentoring in Natural Language Processing may contact me to discuss the possibility. I work closely with the [Linguistic Ingeniering](http://grupos.iingen.unam.mx/iling/es-mx/Paginas/default.aspx) group.
