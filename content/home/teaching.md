@@ -12,22 +12,16 @@ title = "Teaching"
 subtitle = ""
 
 [[teaching.class]]
-  name = "Curso de Procesamiento de Lenguage Natural. UNAM"
-  number = "Inteligencia Artificial" 
-  session = "2023" 
-  photo = "AI.jpg"
-  website = ""
-
-[[teaching.class]]
   name = "Posgrado en Ciencia e Ingeniería de la Computación. UNAM"
   number = "Inteligencia Artificial" 
-  session = "2020-2022" 
+  session = "2020-2022"  
   photo = "AI.jpg"
   website = ""
 
 [[teaching.class]]
   name = "Posgrado en Ciencia e Ingeniería de la Computación.UNAM"
   number = "Minería de Textos"
+  session = "2020"
   photo = "TextMining.jpg"
   website = ""
 

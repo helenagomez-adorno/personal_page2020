@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher @ IIMAS, UNAM
+role: Associate Researcher C - SNI Level 1 and Artificial Intelligence professor
 # Organizations/Affiliations
 organizations:
 - name: IIMAS,UNAM
@@ -44,15 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "helena.gomez@iimas.unam.mx"  # For a direct email link, use "mailto:test@example.org".
+- icon: calendar-alt
+  icon_pack: fas
+  link: https://calendly.com/helena-gomez
 - icon: bitbucket
   icon_pack: fab
   link: https://bitbucket.org/helenpy/
 - icon: github
   icon_pack: fab
   link: https://github.com/helenpy
-- icon: github
-  icon_pack: fab
-  link: https://github.com/PLN-disca-iimas
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es
@@ -82,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-I am researcher at Instituto de [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas (IIMAS)](https://www.iimas.unam.mx), [Universidad Nacional Autónoma de México (UNAM)](http://unam.mx/). I finished my Ph. D. in Computer Science at the Centro de Investigación en Computación, IPN. My research interests are in the field of natural language processing and text mining. I have worked on semantic similarity, authorship attribution, author profiling, and several text classification problems. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.
+I am faculty at [Universidad Nacional Autónoma de México (UNAM)](http://unam.mx/) in the [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas (IIMAS)](https://www.iimas.unam.mx). My research areas are natural language processing, computational linguistics and information retrieval; specifically applications, search for answers, semantic similarity, attribution of authorship and author profiling. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.
