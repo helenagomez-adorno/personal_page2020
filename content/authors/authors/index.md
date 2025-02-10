@@ -4,13 +4,13 @@ title: Helena Montserrat Gómez Adorno
 
 # Username (this should match the folder name)
 authors:
-- admin
+- authors
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Researcher C - SNI Level 1 and Artificial Intelligence professor
+role: Researcher at
 # Organizations/Affiliations
 organizations:
 - name: IIMAS,UNAM
@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "helena.gomez@iimas.unam.mx"  # For a direct email link, use "mailto:test@example.org".
-- icon: calendar-alt
-  icon_pack: fas
-  link: https://calendly.com/helena-gomez
 - icon: bitbucket
   icon_pack: fab
   link: https://bitbucket.org/helenpy/
@@ -65,6 +62,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/helen_py
+- icon: laptop-code
+  icon-pack: fas
+  link: https://github.com/PLN-disca-iimas
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-I am faculty at [Universidad Nacional Autónoma de México (UNAM)](http://unam.mx/) in the [Instituto de Investigaciones en Matemáticas Aplicadas y Sistemas (IIMAS)](https://www.iimas.unam.mx). My research areas are natural language processing, computational linguistics and information retrieval; specifically applications, search for answers, semantic similarity, attribution of authorship and author profiling. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.
+I am researcher at [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas](https://www.iimas.unam.mx), [Universidad Nacional Autónoma de México](http://unam.mx/). I finished my Ph. D. in Computer Science at the Centro de Investigación en Computación, IPN. My research interests are in the field of natural language processing and text mining. I have worked on semantic similarity, authorship attribution, author profiling, and several text classification problems. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.

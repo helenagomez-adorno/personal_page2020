@@ -3,7 +3,7 @@
 
 title: "Lexical resource for data processing of social networks"
 summary: "The aim of the project is the collection of dictionaries of slang words, contractions, abbreviations and emoticons commonly used in social media. The diccitionaries are in English, Spanish, Dutch, and Italian languages."
-authors: [admin]
+authors: [Helena Gómez Adorno]
 tags: [Lexical resources, Social media, slangs, Author profiling, Authorship analysis]
 categories: []
 date: 2020-09-10T09:48:19-05:00

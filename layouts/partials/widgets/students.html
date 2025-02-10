@@ -1,103 +1,71 @@
-{{ $st := .page }}
-{{ $columns := $st.Params.design.columns | default "2" }}
+{{ $st := .page }} {{ $columns := $st.Params.design.columns | default "2" }}
 
 <div class="row">
-    <div class="col-12 col-lg-4 section-heading">
-      {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
-      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  <div class="col-12 col-lg-4 section-heading">
+    {{ with $st.Title }}
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ end }} {{ with $st.Params.subtitle }}
+    <p>{{ . | markdownify | emojify }}</p>
+    {{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    <!-- FLIP 2019 -->
+    <div class="row comment">
+      <h4>{{ $st.Content }}</h4>
+      <!-- <h5>Ph.D. Students</h5> -->
     </div>
-    <div class="col-12 col-lg-8">
-      <!-- FLIP 2019 -->
-        <div class="row comment">
-          <h4>{{ $st.Content }}</h4>
-          <h5>Ph.D. Students</h5>
-        </div>
-        {{ with $st.Params.mygroup }}
-          {{ range .PHDstudents }}
-            <div class="row comment">
-              <div class="col-xs-3">
-                <a href="{{ .website }}" class=comment>
-                {{ .name }}&nbsp;
-                </a>
-              </div>
-              <div class="col-xs-3">
-                {{ .start }} - {{ .end }}&nbsp;
-              </div>
-              <div class="col-xs-6">
-                {{ .position }}, {{ .role }}
-              </div>
-            </div>
-          {{ end }}
-        {{ end }}
+    {{ with $st.Params.mygroup }} {{ range .PHDstudents }}
+    <div class="row comment">
+      <div class="col-xs-3">
+        <a href="{{ .website }}" class="comment"> {{ .name }}&nbsp; </a>
+      </div>
+      <div class="col-xs-3">{{ .start }} - {{ .end }}&nbsp;</div>
+      <div class="col-xs-6">{{ .position }}, {{ .role }}</div>
+    </div>
+    {{ end }} {{ end }}
 
-        <div class="row comment">
-          <h5>Master Students</h5>
-        </div>
+    <div class="row comment">
+      <h5>Master Students</h5>
+    </div>
 
-        {{ with $st.Params.mygroup }}
-          {{ range .MSstudents }}
-            <div class="row comment">
-              <div class="col-xs-3">
-                <a href="{{ .website }}" class=comment>
-                  {{ .name }}&nbsp;
-                </a>
-              </div>
-              <div class="col-xs-3">
-                {{ .start }} - {{ .end }}&nbsp;
-              </div>
-              <div class="col-xs-6">
-                {{ .position }}, {{ .role }}
-              </div>
-            </div>
-          {{ end }}
-        {{ end }}
-    
-        <div class="row comment">
-          <h5>Past Students</h5>
-        </div>
+    {{ with $st.Params.mygroup }} {{ range .MSstudents }}
+    <div class="row comment">
+      <div class="col-xs-3">
+        <a href="{{ .website }}" class="comment"> {{ .name }}&nbsp; </a>
+      </div>
+      <div class="col-xs-3">{{ .start }} - {{ .end }}&nbsp;</div>
+      <div class="col-xs-6">{{ .position }}, {{ .role }}</div>
+    </div>
+    {{ end }} {{ end }}
 
-        {{ with $st.Params.mygroup }}
-          {{ range .oldstudents }}
-            <div class="row comment">
-              <div class="col-xs-3">
-                <a href="{{ .website }}" class=comment>
-                  {{ .name }}&nbsp;
-                </a>
-              </div>
-              <div class="col-xs-3">
-                {{ .start }} - {{ .end }}&nbsp;
-              </div>
-              <div class="col-xs-6">
-                {{ .position }}, {{ .role }}
-              </div>
-            </div>
-          {{ end }}
-        {{ end }}
+    <div class="row comment">
+      <h5>Past Students</h5>
+    </div>
 
+    {{ with $st.Params.mygroup }} {{ range .oldstudents }}
+    <div class="row comment">
+      <div class="col-xs-3">
+        <a href="{{ .website }}" class="comment"> {{ .name }}&nbsp; </a>
+      </div>
+      <div class="col-xs-3">{{ .start }} - {{ .end }}&nbsp;</div>
+      <div class="col-xs-6">{{ .position }}, {{ .role }}</div>
+    </div>
+    {{ end }} {{ end }}
 
-      	<div class="row comment">
-            <h5>Social Service Students</h5>
-          </div>
+    <div class="row comment">
+      <h5>Social Service Students</h5>
+    </div>
 
-          {{ with $st.Params.mygroup }}
-            {{ range .socialservicestudents }}
-              <div class="row comment">
-                <div class="col-xs-3">
-                  <a href="{{ .website }}" class=comment>
-                    {{ .name }}&nbsp;
-                  </a>
-                </div>
-                <div class="col-xs-3">
-                  {{ .start }} &nbsp;
-                </div>
-                <div class="col-xs-6">
-                  {{ .position }}, {{ .role }}
-                </div>
-              </div>
-            {{ end }}
-          {{ end }}
+    {{ with $st.Params.mygroup }} {{ range .socialservicestudents }}
+    <div class="row comment">
+      <div class="col-xs-3">
+        <a href="{{ .website }}" class="comment"> {{ .name }}&nbsp; </a>
+      </div>
+      <div class="col-xs-3">{{ .start }} &nbsp;</div>
+      <div class="col-xs-6">{{ .position }}, {{ .role }}</div>
+    </div>
+    {{ end }} {{ end }}
 
-	
     <!-- /FLIP 2019 -->
-    </div>
+  </div>
 </div>

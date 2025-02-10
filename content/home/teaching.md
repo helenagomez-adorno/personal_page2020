@@ -21,7 +21,6 @@ subtitle = ""
 [[teaching.class]]
   name = "Posgrado en Ciencia e Ingeniería de la Computación.UNAM"
   number = "Minería de Textos"
-  session = "2020"
   photo = "TextMining.jpg"
   website = ""
 
@@ -46,7 +45,10 @@ subtitle = ""
   photo = "BD.jpg"
   website = ""
 
+[[teaching.class]]
+  name = "Universidad Nacional Autonoma de México (UNAM)"
+  number = "Curso de Procesamiento de Lenguage Natural de la Licenciatura en Ciencia de Datos"
+  photo = "ciencia_datos_unam.jpg"
+  website = ""
+
 +++
-
-
-

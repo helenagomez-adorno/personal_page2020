@@ -3,7 +3,7 @@
 
 title: "Spanish NewsCorpus: Multi-tagged corpus for authorship analysis in Spanish"
 summary: "The aim of the project is the compilation of news in Spanish from digital media sites and its categorization into three areas: variation of Spanish, author, and author's gender. The collection was carried out semi-automatically with a web crawler developed for this purpose."
-authors: [Miguel A. Sanchez-Perez, Ilia Markov, admin, Grigori Sidorov]
+authors: [Miguel A. Sanchez-Perez, Ilia Markov, Helena Gómez Adorno, Grigori Sidorov]
 tags: [corpus, Spanish corpus, Authorship analysis]
 categories: []
 date: 2020-09-09T16:38:06-05:00
@@ -48,4 +48,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 The aim of the project is the compilation of news in Spanish from digital media sites and its categorization into three areas: variation of Spanish, author, and author's gender. The collection was carried out semi-automatically with a web crawler developed for this purpose.

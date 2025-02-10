@@ -11,31 +11,6 @@ weight = 60  # Order that this section will appear.
 title = "Team"
 subtitle = ""
 
-[[mygroup.PHDstudents]]
-  name = "Alex Iván Valencia Valencia"
-  position = "Ph.D. Student"
-  start = "01/2019"
-  photo = ""
-  website = ""
-  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
-
-[[mygroup.PHDstudents]]
-  name = "Eric Valdez Valenzuela"
-  position = "Ph.D. Student"
-  start = "01/2020" 
-  photo = ""
-  website = ""
-  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
-
-[mygroup.PHDstudents]]
-  name = "Iqra Ameer"
-  position = "Ph.D. Student"
-  start = "07/2020"
-  photo = ""
-  website = ""
-  role = "Centro de Investigación en Computación - IPN"
-
-
 [[mygroup.MSstudents]]
   name = "Alan Emir Araujo Pino"
   start = "07/2018"
@@ -58,7 +33,7 @@ subtitle = ""
   position = "Master Student"
   photo = ""
   website = ""
-  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM
+  role = "Posgrado en Ciencia e Ingeniería de la Computación - UNAM"
 
 [[mygroup.oldstudents]]
   name = "Aquilino Francisco Sotelo"
@@ -118,4 +93,5 @@ subtitle = ""
   photo = ""
   website = ""
 +++
+
 Students seeking mentoring in Natural Language Processing may contact me to discuss the possibility. I work closely with the [Linguistic Ingeniering](http://grupos.iingen.unam.mx/iling/es-mx/Paginas/default.aspx) group.

@@ -67,19 +67,22 @@ group_logo = "./img/logo/pythonNLP.jpg"
     "[UNAM Social Service Program](https://www.siass.unam.mx/)",
     "[NLP Summer School 2020](https://ampln.github.io/escuelaverano2020/)",
     "[MEX-A3T Workshop 2020](https://sites.google.com/view/mex-a3t/home?authuser=0)",
+    "[Summer School on Digital Humanities 2023](https://sites.google.com/aries.iimas.unam.mx/school-digital-humanities/home)",
+    "[Macroentrenamiento en Inteligencia Artificial MeIA 2023](https://www.taller-tic.redmacro.unam.mx/MeIA/)",
   ]
 +++
+
 **Dr. Helena Gómez Adorno** is a professor of Artificial Intelligence at IIMAS-UNAM. Among her research interests areas are natural language processing, computational linguistics, and information retrieval; specifically, question answering, semantic similarity, authorship attribution, and author profiling. Lead a research and development team to implement intelligent systems with the help of machine learning and neural networks.
 
 **Awards and honours**
 
--  **“[Lázaro Cárdenas 2019](https://issuu.com/ipn85/docs/gaceta_quincenal_1485)” Prize** for remarkable performance as PhD. student in Engineering,
-Physical & Mathematical Sciences area from *Instituto Politécnico Nacional*.
--  **Award for the best academic performance** of doctoral students of the *Instituto Politécnico Nacional* (IPN) 2016. There are approximately 50 doctoral students at the IPN. The diploma is awards to the best scores and publications.
--  Scholarship **"Award of Merit"** for international students from the Ministry of Foreign Relations (SRE) of the Mexican Government for Master's studies, 2011–2013. The SRE awards two scholarships per country by year.
--  **Best Paper Award** for the work entitled “Author Profiling with doc2vec Neural Network-Based Document Embeddings” of the 15th Mexico International Congress of Artificial Intelligence (MICAI) 2016.
+- **“[Lázaro Cárdenas 2019](https://issuu.com/ipn85/docs/gaceta_quincenal_1485)” Prize** for remarkable performance as PhD. student in Engineering,
+  Physical & Mathematical Sciences area from _Instituto Politécnico Nacional_.
+- **Award for the best academic performance** of doctoral students of the _Instituto Politécnico Nacional_ (IPN) 2016. There are approximately 50 doctoral students at the IPN. The diploma is awards to the best scores and publications.
+- Scholarship **"Award of Merit"** for international students from the Ministry of Foreign Relations (SRE) of the Mexican Government for Master's studies, 2011–2013. The SRE awards two scholarships per country by year.
+- **Best Paper Award** for the work entitled “Author Profiling with doc2vec Neural Network-Based Document Embeddings” of the 15th Mexico International Congress of Artificial Intelligence (MICAI) 2016.
 
 **Research stays**
 
--  **Instituto de Ingeniería** - UNAM (Mexico), February - July 2018.
--  **IBM Deutschland Research and Development GmbH** (Germany), July - September 2017.
+- **Instituto de Ingeniería** - UNAM (Mexico), February - July 2018.
+- **IBM Deutschland Research and Development GmbH** (Germany), July - September 2017.

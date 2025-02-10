@@ -3,7 +3,7 @@
 
 title: "CONACYT Project 298036: Feria de Talleres Mexicanas del Futuro: Trazando conciencias, pensando en TI Edición IIMAS UNAM."
 summary: "The project aims at promoting the scientific-technological vocation among female students of UNAM's highschool. For this, we invite the girls to study a science and technology career through conferences and workshops in a fun and interesting environment to show them that thinking that women and technology do not get along is an unfounded prejudice. We held a workshop fair at UNAM campus. Worshops and talks were given by professional women from the world of academy and industry, focused on the student population of the UNAM. "
-authors: [admin]
+authors: [Helena Gómez Adorno]
 tags: []
 categories: []
 date: 2020-09-10T10:07:05-05:00

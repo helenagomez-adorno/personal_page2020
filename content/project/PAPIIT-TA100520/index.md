@@ -3,7 +3,7 @@
 
 title: "PAPIIT TA100520: Authorship analysis on documents with deep learning techniques."
 summary: "The aim of the project is to develop methods that allow the extraction of relevant feature from documents for authorship analysis, using deep neural architectures that allow to obtain lexical, syntactic, and semantic properties of texts."
-authors: [admin]
+authors: [Helena Gómez Adorno]
 tags: [Authorship analysis, Authorship attribution, Author profiling, Neural networks, Deep learning]
 categories: []
 date: 2020-09-10T10:09:42-05:00
